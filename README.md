@@ -1,3 +1,2 @@
-# code-for-offer
 Programming practice 
-This is readme file.
+This project include codes that is not passed.
